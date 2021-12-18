@@ -19,10 +19,11 @@ const styles = StyleSheet.create({
     backgroundColor: 'gray',
     alignItems: 'center',
     justifyContent: 'space-between',
+    borderRadius: 15,
   },
   linhas: {
-    height: 50,
-    width: 50,
+    height: 40,
+    width: 40,
   },
   logocarta: {
     height: 50,
